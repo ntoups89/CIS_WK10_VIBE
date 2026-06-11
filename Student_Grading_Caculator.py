@@ -1,6 +1,6 @@
 #Nathaniel Toups
-#VIBE-Student grading caculator
 #CIS261
+#WK10 VIBE Coding
 
 import os
 
