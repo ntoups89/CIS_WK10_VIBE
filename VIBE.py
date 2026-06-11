@@ -1,6 +1,6 @@
 #Nathaniel Toups
 #CIS261
-#WK10 VIBE Coding
+#WK10 Student Grade Calculator
 
 import os
 
